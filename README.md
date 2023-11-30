@@ -1,4 +1,4 @@
-# fetch-emails
+# Get Stargazers
 
 This tool allow to get github stargazer profils from a github repository using Github API.
 
@@ -40,4 +40,7 @@ The script will create a `stargazers.json` file at the root with the emails foun
 2. API Github limits the number of requests to 5000 per hour per token.
 
 3. If you repeat the command, the `stargazers.json` file will overwrite the previous one.
+
+## Related tools
+Once you get the list, you can use [fetch-emails](https://github.com/SebConejo/fetch-emails) to get emails from the list of users.
 
