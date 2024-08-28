@@ -1,4 +1,7 @@
 # Get Stargazers
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This tool allow to get github stargazer profils from a github repository using Github API.
 
@@ -47,6 +50,20 @@ Once you get the list, you can use [fetch-emails](https://github.com/SebConejo/f
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://buddyweb.fr"><img src="https://avatars.githubusercontent.com/u/11723962?v=4?s=100" width="100px;" alt="Sébastien Conejo"/><br /><sub><b>Sébastien Conejo</b></sub></a><br /><a href="https://github.com/SebConejo/Get-stargazers/commits?author=SebConejo" title="Tests">⚠️</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
