@@ -1,4 +1,33 @@
 {
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "SebConejo",
+      "name": "Sébastien Conejo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11723962?v=4",
+      "profile": "https://github.com/sebconejo",
+      "contributions": [
+        "design",
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "ideas",
+        "projectManagement",
+        "question",
+        "review",
+        "security",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
   "projectName": "Get-stargazers",
   "projectOwner": "SebConejo"
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
