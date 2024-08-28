@@ -54,4 +54,3 @@ Once you get the list, you can use [fetch-emails](https://github.com/SebConejo/f
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-[![All Contributors](https://img.shields.io/github/SebConejo/Get-stargazers?color=ee8449&style=flat-square)](#contributors)
