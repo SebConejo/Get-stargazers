@@ -44,3 +44,14 @@ The script will create a `stargazers.json` file at the root with the emails foun
 ## Related tools
 Once you get the list, you can use [fetch-emails](https://github.com/SebConejo/fetch-emails) to get emails from the list of users.
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+[![All Contributors](https://img.shields.io/github/all-contributors/SebConejo/Get-stargazers?color=ee8449&style=flat-square)](#contributors)
